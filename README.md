@@ -1,2 +1,2 @@
-# bakok.github.io
+#github.io
 lorem
